@@ -1,3 +1,5 @@
+Running Shopify Tests
+
 # Shopify App Node
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
