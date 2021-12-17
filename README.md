@@ -1,5 +1,4 @@
-Running Shopify Tests
-
+Running Shopify app tests and checking out theme app extensions.
 # Shopify App Node
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
