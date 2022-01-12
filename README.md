@@ -1,4 +1,5 @@
-Running Shopify app tests and checking out theme app extensions.
+Running Shopify app tests and checking out theme app extensions. This was the first Shopify test. No longer need app theme app extensions.
+
 # Shopify App Node
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
