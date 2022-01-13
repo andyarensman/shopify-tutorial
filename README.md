@@ -1,4 +1,4 @@
-Running Shopify app tests and checking out theme app extensions. This was the first Shopify test. No longer need app theme app extensions.
+Running Shopify app tests and checking out theme app extensions. This was the first Shopify test. No longer need app theme app extensions. Actual app will use the Shopify Storefront API with Metafields.
 
 # Shopify App Node
 
